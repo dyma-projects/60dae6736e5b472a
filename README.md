@@ -1,6 +1,6 @@
 # Chapitre 1 - Tutoriel du projet
 
-[logo]: https://s3.eu-central-1.amazonaws.com/angularemailsimages/angular.png "Angular5.fr"
+![alt text](https://s3.eu-central-1.amazonaws.com/angularemailsimages/angular.png)
 
 ### TO DO :
 
